@@ -1,0 +1,7 @@
+{
+  "access_token": "31763629822-0-13jfBgTSCduLjzpOPCgyCqwH4",
+  "token_type": "bearer",
+  "expires_in": 3600,
+  "refresh_token": "31763629822-aRVYmfxTAW4Sx5mihFB89sqwQno",
+  "scope": "edit flair history identity modconfig modflair modlog modposts modwiki mysubreddits privatemessages read report save submit subscribe vote wikiedit wikiread"
+}
