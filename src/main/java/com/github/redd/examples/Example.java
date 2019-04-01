@@ -10,8 +10,8 @@ import java.util.Scanner;
 
 public class Example {
 
-    public static final String CLIENT_ID = "zlb-dVqDeuODaA";
-    public static final String CLIENT_SECRET = "6wadwLltr9WVQ_Ow46PNrywF-Pw";
+    public static final String CLIENT_ID = "client-id";
+    public static final String CLIENT_SECRET = "client-secret";
     public static final String REDIRECTED_URI = "https://example.com/oauth";
 
     public static final String AUTHORIZATION_URL = "https://www.reddit.com/api/v1/authorize";
@@ -28,7 +28,7 @@ public class Example {
 
         System.out.println(out);
 
-//        // Got code = 4t5ez_9jF4vZwtlonL8hRn4Bnzw
+//        // Got code = code
 //
         final Scanner in = new Scanner(System.in,"UTF-8");
         System.out.println("==============================");
@@ -42,12 +42,7 @@ public class Example {
 
         // YES I GOT RESPONSE FROM SERVER
 
-        /*
-         * {"access_token": "31763629822-EOgAhkkoD6-OtiI3m3WpgmdC3Oc",
-         * "token_type": "bearer",
-         * "expires_in": 3600,
-         * "refresh_token": "31763629822-tx-XPxWg-G9DkDQT-lSK1JPT4JQ",
-         * "scope": "edit"}
+        
          */
 
 
